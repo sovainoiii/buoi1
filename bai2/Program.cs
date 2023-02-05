@@ -1,12 +1,14 @@
-﻿float a, b, c;
-
+﻿//Bai lam cua Pham Duc Minh
+//Khai bao 3 bien a,b,c
+float a, b, c;
+//Nhap du lieu a, b, c
 Console.Write("Nhap he so bac 2, a = ");
 a = Convert.ToInt32(Console.ReadLine());
 Console.Write("Nhap he so bac 1, b = ");
 b = Convert.ToInt32(Console.ReadLine());
 Console.Write("Nhap he so bac 0, c = ");
 c = Convert.ToInt32(Console.ReadLine());
-
+//Kiem tra a, b, c truoc khi tinh
 if (a == 0)
 {
     if (b == 0)
@@ -21,6 +23,7 @@ if (a == 0)
 }
 // tinh delta
 float delta = b * b - 4 * a * c;
+// khai bao nghiem x1, x2
 float x1;
 float x2;
 // tinh nghiem

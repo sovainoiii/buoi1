@@ -1,4 +1,5 @@
-﻿//Khai bao bien a, b
+﻿//Bai lam cua Pham Duc Minh
+//Khai bao bien a, b
 float a, b;
 //Khai bao bien pheptinh
 string pheptinh;
