@@ -1,0 +1,15 @@
+E:\CSharp\buoi1\bai3\bin\Debug\net6.0\bai3.exe
+E:\CSharp\buoi1\bai3\bin\Debug\net6.0\bai3.deps.json
+E:\CSharp\buoi1\bai3\bin\Debug\net6.0\bai3.runtimeconfig.json
+E:\CSharp\buoi1\bai3\bin\Debug\net6.0\bai3.dll
+E:\CSharp\buoi1\bai3\bin\Debug\net6.0\bai3.pdb
+E:\CSharp\buoi1\bai3\obj\Debug\net6.0\bai3.csproj.AssemblyReference.cache
+E:\CSharp\buoi1\bai3\obj\Debug\net6.0\bai3.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\buoi1\bai3\obj\Debug\net6.0\bai3.AssemblyInfoInputs.cache
+E:\CSharp\buoi1\bai3\obj\Debug\net6.0\bai3.AssemblyInfo.cs
+E:\CSharp\buoi1\bai3\obj\Debug\net6.0\bai3.csproj.CoreCompileInputs.cache
+E:\CSharp\buoi1\bai3\obj\Debug\net6.0\bai3.dll
+E:\CSharp\buoi1\bai3\obj\Debug\net6.0\refint\bai3.dll
+E:\CSharp\buoi1\bai3\obj\Debug\net6.0\bai3.pdb
+E:\CSharp\buoi1\bai3\obj\Debug\net6.0\bai3.genruntimeconfig.cache
+E:\CSharp\buoi1\bai3\obj\Debug\net6.0\ref\bai3.dll
